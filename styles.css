@@ -4,3 +4,15 @@
 .ul-x{
     margin-left: 20%;
 }
+#image {
+width: 950px;
+height: auto;
+max-width:100%;
+max-height:950px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
